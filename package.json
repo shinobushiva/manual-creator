@@ -5,7 +5,7 @@
   "private":true,
   "repository": {
     "type": "git",
-    "url": "git+ssh://hoge.com:test_grp/test_lib.git"
+    "url": "https://github.com/shinobushiva/manual-creator"
   },
   "author": "Shinobu Izumi",
   "license": "ISC",
