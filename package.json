@@ -2,14 +2,17 @@
   "name": "manual-creator",
   "version": "0.0.1",
   "description": "Library for creating manual of web-based service with selenium",
-  "private":true,
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/shinobushiva/manual-creator"
   },
   "author": "Shinobu Izumi",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^2.37.0",
+    "fs-extra": "^5.0.0",
     "selenium-webdriver": "^4.0.0-alpha.1"
   }
 }
