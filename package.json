@@ -1,0 +1,15 @@
+{
+  "name": "manual-creator",
+  "version": "0.0.1",
+  "description": "Library for creating manual of web-based service with selenium",
+  "private":true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://hoge.com:test_grp/test_lib.git"
+  },
+  "author": "Shinobu Izumi",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
